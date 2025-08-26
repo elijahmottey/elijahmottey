@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Elijah Mottey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm a passionate **Trainee Software Engineer** with a growing skill set in both frontend and backend technologies. I enjoy building efficient and scalable applications, and I'm currently expanding my knowledge in **cloud computing** with AWS.
+I’m a passionate **Software Engineer in Progress** with skills in both frontend and backend technologies. I love building efficient, scalable applications and leveraging **cloud computing** to deliver impactful solutions.  
+
+I’m also proud to be an **AWS Certified Cloud Practitioner**, furthering my journey into cloud architecture and DevOps.  
 
 ---
 
@@ -25,20 +27,18 @@ I'm a passionate **Trainee Software Engineer** with a growing skill set in both 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)
-
-
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)  
 
 ---
 
 ## 🚀 Current Focus
 
-- 💻 Building full-stack apps with **Spring Boot + React / Next.js**
-- 📦 Dockerizing backend services and deploying to the cloud
-- ☁️ Preparing for **AWS Certified Cloud Practitioner**
-- 📚 Sharpening Data Structures and Algorithms
+- 💻 Building **full-stack apps** with **Spring Boot + React / Next.js**  
+- 📦 Containerizing services with **Docker** and deploying to **AWS**  
+- ☁️ Advancing my AWS journey (next: **Solutions Architect – Associate**)  
+- 📚 Strengthening **Data Structures & Algorithms** for problem-solving  
 
 ---
 
@@ -54,19 +54,26 @@ I'm a passionate **Trainee Software Engineer** with a growing skill set in both 
 
 ## 🧠 Notable Projects
 
-- 🛒 **AgriCommerce Platform** – A digital marketplace for Ghanaian farmers *(Spring Boot + React)*
-- 📦 **Suggestion Box** – Simple web-based tool to submit feedback *(Next.js + Spring Boot)*
-- 📊 **E-Attendance System** – Role-based attendance web system
-- ☁️ **AWS Labs** – Labs and sandbox projects from AWS cloud training
+- 🛒 **AgriCommerce Platform** – Digital marketplace for Ghanaian farmers *(Spring Boot + React)*  
+- 📦 **Suggestion Box** – Web-based feedback tool *(Next.js + Spring Boot)*  
+- 📊 **E-Attendance System** – Role-based attendance management system  
+- ☁️ **AWS Labs** – Hands-on projects from my AWS certification and cloud journey  
+
+---
+
+## 📜 Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)  
+**AWS Certified Cloud Practitioner** – Issued by Amazon Web Services (2025)  
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elijah-mottey)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elijahmottey)
-[![Gmail](https://img.shields.io/badge/-elijahmottey5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elijahmottey5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elijah-mottey)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elijahmottey)  
+[![Gmail](https://img.shields.io/badge/-elijahmottey5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elijahmottey5@gmail.com)  
 
 ---
 
-> ✨ *"I believe in using technology to create meaningful solutions that impact communities."*
+> ✨ *"I believe in using technology to create meaningful solutions that impact communities."*  
