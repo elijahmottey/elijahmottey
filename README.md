@@ -27,7 +27,7 @@ I'm a passionate **Trainee Software Engineer** with a growing skill set in both 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](YOUR_CREDLY_BADGE_LINK)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)]((https://www.credly.com/go/i3m0suaG4OajcSITAWN5eg))
 
 
 ---
