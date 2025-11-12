@@ -6,162 +6,116 @@ As an **AWS Certified Cloud Practitioner**, I combine development expertise with
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
-| Technology | Proficiency | Use Case |
-|------------|-------------|----------|
-| **React** | Advanced | Component-based UIs |
-| **Next.js** | Advanced | Full-stack applications |
-| **TypeScript** | Intermediate | Type-safe development |
-| **JavaScript** | Advanced | Dynamic web applications |
-| **TailwindCSS** | Intermediate | Utility-first styling |
+### **Frontend Development**
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</div>
 
-### ⚙️ Backend Development
-| Technology | Proficiency | Specialization |
-|------------|-------------|----------------|
-| **Java** | Advanced | Enterprise applications |
-| **Spring Boot** | Advanced | REST APIs & Microservices |
-| **Python** | Intermediate | Scripting & Automation |
-| **Flask** | Beginner | Lightweight web apps |
+### **Backend Development**
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</div>
 
-### 🚀 DevOps & Cloud
-| Technology | Level | Application |
-|------------|-------|-------------|
-| **Docker** | Intermediate | Containerization |
-| **Terraform** | Learning | Infrastructure as Code |
-| **GitHub Actions** | Learning | CI/CD Pipelines |
-| **AWS** | Certified | Cloud Solutions |
-| **Git** | Advanced | Version Control |
+### **DevOps & Cloud**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 </div>
 
 ---
 
-## 🎯 Professional Focus
+## 🎯 What I'm Working On
 
-<div class="focus-grid" align="center">
-
-| Area | Technologies | Status |
-|------|--------------|--------|
-| **Full-Stack Development** | Spring Boot + React/Next.js | 🚀 Active |
-| **Cloud Infrastructure** | AWS, Terraform | 📚 Learning |
-| **CI/CD Automation** | GitHub Actions, Docker | 🔄 Implementing |
-| **Containerization** | Docker, Microservices | 🐳 Practicing |
-| **Cloud Certification** | AWS Solutions Architect | 🎯 Pursuing |
-| **System Optimization** | Data Structures & Algorithms | ⚡ Enhancing |
-
-</div>
+- 🔥 **Full-Stack Applications** with Spring Boot & React/Next.js
+- ☁️ **Cloud Infrastructure** using AWS & Terraform
+- ⚡ **CI/CD Pipelines** with GitHub Actions & Docker
+- 🚀 **Microservices Architecture** and containerization
+- 📚 **AWS Solutions Architect** certification preparation
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Code Contributions] --> B[Repository Management]
-    C[Project Development] --> D[Open Source]
-    E[Technical Learning] --> F[Skill Growth]
-```
+<a href="https://github.com/elijahmottey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahmottey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elijahmottey&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" />
+</a>
 
-</div>
+<br/>
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmottey&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<div style="flex: 1; min-width: 300px;">
-<img src="https://github-readme-stats.vercel.app/api?username=elijahmottey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" style="width: 100%;" />
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elijahmottey&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="GitHub Contribution Streak" style="width: 100%;" />
-</div>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmottey&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss,less,stylus,jupyter%20notebook&card_width=800" alt="Most Used Languages" style="width: 80%;" />
 </div>
 
 ---
 
-## 💼 Project Portfolio
+## 💼 Featured Projects
 
 ### 🏨 **Hotel Management System**
-```
-📋 Description: Comprehensive hotel operations management platform
-🛠️ Tech Stack: Spring Boot, React, MySQL, Docker, AWS RDS
-🎯 Features: Booking system, billing, inventory management, reporting
-📊 Status: Completed
-```
+> Comprehensive hotel operations platform with booking, billing, and inventory management
+- **Tech**: Spring Boot, React, MySQL, Docker, AWS RDS
+- **Status**: ✅ Completed
 
-### 🛒 **AgriCommerce Platform**
-```
-📋 Description: Digital marketplace for Ghanaian farmers
-🛠️ Tech Stack: Spring Boot, React, PostgreSQL, AWS
-🎯 Features: E-commerce, user management, payment integration
-📊 Status: Deployed
-```
+### 🛒 **AgriCommerce Platform** 
+> Digital marketplace connecting Ghanaian farmers with buyers
+- **Tech**: Spring Boot, React, PostgreSQL, AWS
+- **Status**: ✅ Deployed
 
 ### 📦 **Suggestion Box Application**
-```
-📋 Description: Enterprise feedback management system
-🛠️ Tech Stack: Next.js, Spring Boot, Docker, GitHub Actions, Terraform
-🎯 Features: Feedback collection, analytics, admin dashboard
-📊 Status: In Development
-```
+> Enterprise feedback collection and management system
+- **Tech**: Next.js, Spring Boot, Docker, GitHub Actions, Terraform
+- **Status**: 🚧 In Development
 
 ### 📊 **E-Attendance System**
-```
-📋 Description: Role-based attendance tracking platform
-🛠️ Tech Stack: Java, Spring Security, React, MySQL
-🎯 Features: Real-time tracking, reporting, multi-role access
-📊 Status: Completed
-```
+> Role-based attendance tracking and reporting platform  
+- **Tech**: Java, Spring Security, React, MySQL
+- **Status**: ✅ Completed
 
 ### ☁️ **AWS Infrastructure Labs**
-```
-📋 Description: Cloud architecture implementations
-🛠️ Tech Stack: AWS Services, Terraform, GitHub Actions, CI/CD
-🎯 Features: Infrastructure automation, deployment pipelines
-📊 Status: Ongoing Learning
-```
+> Cloud architecture implementations and infrastructure automation
+- **Tech**: AWS Services, Terraform, GitHub Actions, CI/CD
+- **Status**: 📚 Ongoing Learning
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certification
 
 <div align="center">
 
-### 🎖️ AWS Certified Cloud Practitioner
-**Issuer**: Amazon Web Services  
-**Date**: 2025  
-**Status**: ✅ Active  
-**Credential ID**: [View Badge](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)
 
-| Skill Area | Competency Level |
-|------------|------------------|
-| Cloud Concepts | ⭐⭐⭐⭐⭐ |
-| AWS Services | ⭐⭐⭐⭐ |
-| Security & Compliance | ⭐⭐⭐⭐ |
-| Billing & Pricing | ⭐⭐⭐⭐ |
+**AWS Certified Cloud Practitioner**  
+*Amazon Web Services • 2025*
 
 </div>
 
 ---
 
-## 📞 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-| Platform | Link | Best For |
-|----------|------|----------|
-| **LinkedIn** | [elijah-mottey](https://linkedin.com/in/elijah-mottey) | Professional Networking |
-| **GitHub** | [elijahmottey](https://github.com/elijahmottey) | Code Collaboration |
-| **Email** | [elijahmottey5@gmail.com](mailto:elijahmottey5@gmail.com) | Direct Communication |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elijah-mottey)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elijahmottey)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elijahmottey5@gmail.com)
 
 </div>
 
@@ -169,11 +123,30 @@ graph LR
 
 <div align="center">
 
-> 🚀 *"Engineering solutions that bridge technical excellence with real-world impact through cloud-native architectures and scalable systems."*
-
-**📅 Currently Available For:** Freelance Projects • Technical Collaborations • Learning Opportunities
+> **"Engineering solutions that bridge technical excellence with real-world impact through cloud-native architectures and scalable systems."**
 
 </div>
 
----
-
+<style>
+  .badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin: 15px 0;
+  }
+  
+  img {
+    transition: transform 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.05);
+  }
+  
+  h3 {
+    border-bottom: 2px solid #DD2727;
+    padding-bottom: 5px;
+    margin-top: 30px;
+  }
+</style>
