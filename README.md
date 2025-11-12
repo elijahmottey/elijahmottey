@@ -9,88 +9,190 @@ As an **AWS Certified Cloud Practitioner**, I combine development expertise with
 ## 💻 Technical Stack
 
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ### 🧠 Backend Development
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+<div align="center">
+  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+
+</div>
 
 ### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ### ☁️ Cloud Technologies
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+<div align="center">
+  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)  
+</div>
 
 ---
 
 ## 🚀 Professional Focus
 
-- 🔭 **Full-Stack Development**: Building enterprise-grade applications with **Spring Boot + React/Next.js**  
-- 🏗️ **Infrastructure as Code**: Implementing cloud infrastructure using **Terraform**  
-- 🔄 **CI/CD Pipelines**: Automating deployment workflows with **GitHub Actions**  
-- 🐳 **Containerization**: Developing and deploying microservices with **Docker**  
-- ☁️ **Cloud Architecture**: Advancing AWS expertise (pursuing **Solutions Architect – Associate**)  
-- ⚡ **Performance Optimization**: Enhancing application efficiency through optimized data structures and algorithms  
+<div align="center">
+
+✨ **Full-Stack Development**: Building enterprise-grade applications with **Spring Boot + React/Next.js**  
+🚀 **Infrastructure as Code**: Implementing cloud infrastructure using **Terraform**  
+⚡ **CI/CD Pipelines**: Automating deployment workflows with **GitHub Actions**  
+🐳 **Containerization**: Developing and deploying microservices with **Docker**  
+☁️ **Cloud Architecture**: Advancing AWS expertise (pursuing **Solutions Architect – Associate**)  
+💫 **Performance Optimization**: Enhancing application efficiency through optimized data structures and algorithms
+
+</div>
 
 ---
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elijahmottey&show_icons=true&theme=radical&hide_border=true" alt="GitHub Statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elijahmottey&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmottey&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss,less,stylus,jupyter%20notebook&card_width=800" alt="Most Used Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=elijahmottey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elijahmottey&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="GitHub Contribution Streak" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmottey&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss,less,stylus,jupyter%20notebook&card_width=800" alt="Most Used Languages" />
+
+</div>
 
 ---
 
 ## 🛠️ Notable Projects
 
 ### 🛒 **AgriCommerce Platform**
-Digital marketplace connecting Ghanaian farmers with buyers.  
-*Tech: Spring Boot, React, PostgreSQL, AWS*
+<p align="center">
+  <i>Digital marketplace connecting Ghanaian farmers with buyers.</i><br>
+  <strong>Tech:</strong> Spring Boot, React, PostgreSQL, AWS
+</p>
 
 ### 📦 **Suggestion Box Application**
-Enterprise feedback collection and management system.  
-*Tech: Next.js, Spring Boot, Docker, GitHub Actions, Terraform*
+<p align="center">
+  <i>Enterprise feedback collection and management system.</i><br>
+  <strong>Tech:</strong> Next.js, Spring Boot, Docker, GitHub Actions, Terraform
+</p>
 
 ### 📊 **E-Attendance System**
-Role-based attendance tracking and reporting platform.  
-*Tech: Java, Spring Security, React, MySQL*
+<p align="center">
+  <i>Role-based attendance tracking and reporting platform.</i><br>
+  <strong>Tech:</strong> Java, Spring Security, React, MySQL
+</p>
 
 ### ☁️ **AWS Infrastructure Labs**
-Cloud architecture implementations and infrastructure automation.  
-*Tech: AWS Services, Terraform, GitHub Actions, CI/CD Pipelines*
+<p align="center">
+  <i>Cloud architecture implementations and infrastructure automation.</i><br>
+  <strong>Tech:</strong> AWS Services, Terraform, GitHub Actions, CI/CD Pipelines
+</p>
 
 ---
 
 ## 📜 Professional Certifications
 
+<div align="center">
+
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/6841e850-0448-4de4-83a4-cc1f3ddf7f93/image.png)](https://www.credly.com/badges/ea2dbf3c-c275-47b6-8970-22aae75a7762)  
-**AWS Certified Cloud Practitioner** – Amazon Web Services (2025)  
+**AWS Certified Cloud Practitioner** – Amazon Web Services (2025)
+
+</div>
 
 ---
 
 ## 📫 Professional Connections
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elijah-mottey)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elijahmottey)  
-[![Email](https://img.shields.io/badge/-elijahmottey5@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elijahmottey5@gmail.com)  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elijah-mottey)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elijahmottey)
+[![Email](https://img.shields.io/badge/-elijahmottey5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elijahmottey5@gmail.com)
+
+</div>
 
 ---
 
+<div align="center">
+
 > 🚀 *"Engineering solutions that bridge technical excellence with real-world impact through cloud-native architectures and scalable systems."*
+
+</div>
+
+---
+
+<!-- Animation Styles -->
+<style>
+  .badge:hover {
+    transform: translateY(-3px);
+    transition: all 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+  }
+  
+  /* Pulse animation for important elements */
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  
+  /* Floating animation */
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  /* Apply animations to specific elements */
+  .pulse {
+    animation: pulse 2s infinite;
+  }
+  
+  .float {
+    animation: float 3s ease-in-out infinite;
+  }
+  
+  /* Hover effects for badges */
+  .badge-container img:hover {
+    animation: pulse 0.5s ease-in-out;
+  }
+</style>
+
+<script>
+  // Add hover effects to all badges
+  document.addEventListener('DOMContentLoaded', function() {
+    const badges = document.querySelectorAll('img');
+    badges.forEach(badge => {
+      badge.style.transition = 'transform 0.3s ease';
+      badge.addEventListener('mouseenter', function() {
+        this.style.transform = 'scale(1.1)';
+      });
+      badge.addEventListener('mouseleave', function() {
+        this.style.transform = 'scale(1)';
+      });
+    });
+  });
+</script>
