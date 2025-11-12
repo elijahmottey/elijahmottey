@@ -127,26 +127,3 @@ As an **AWS Certified Cloud Practitioner**, I combine development expertise with
 
 </div>
 
-<style>
-  .badge-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-    margin: 15px 0;
-  }
-  
-  img {
-    transition: transform 0.3s ease;
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-  }
-  
-  h3 {
-    border-bottom: 2px solid #DD2727;
-    padding-bottom: 5px;
-    margin-top: 30px;
-  }
-</style>
