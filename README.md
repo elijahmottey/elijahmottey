@@ -83,6 +83,12 @@ As an **AWS Certified Cloud Practitioner**, I combine development expertise with
 
 ## 🛠️ Notable Projects
 
+### 🏨 **Hotel Management System**
+<p align="center">
+  <i>Comprehensive hotel operations management platform with booking, billing, and inventory features.</i><br>
+  <strong>Tech:</strong> Spring Boot, React, MySQL, Docker, AWS RDS
+</p>
+
 ### 🛒 **AgriCommerce Platform**
 <p align="center">
   <i>Digital marketplace connecting Ghanaian farmers with buyers.</i><br>
@@ -139,60 +145,3 @@ As an **AWS Certified Cloud Practitioner**, I combine development expertise with
 </div>
 
 ---
-
-<!-- Animation Styles -->
-<style>
-  .badge:hover {
-    transform: translateY(-3px);
-    transition: all 0.3s ease;
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-    transition: all 0.3s ease;
-  }
-  
-  /* Pulse animation for important elements */
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  
-  /* Floating animation */
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  /* Apply animations to specific elements */
-  .pulse {
-    animation: pulse 2s infinite;
-  }
-  
-  .float {
-    animation: float 3s ease-in-out infinite;
-  }
-  
-  /* Hover effects for badges */
-  .badge-container img:hover {
-    animation: pulse 0.5s ease-in-out;
-  }
-</style>
-
-<script>
-  // Add hover effects to all badges
-  document.addEventListener('DOMContentLoaded', function() {
-    const badges = document.querySelectorAll('img');
-    badges.forEach(badge => {
-      badge.style.transition = 'transform 0.3s ease';
-      badge.addEventListener('mouseenter', function() {
-        this.style.transform = 'scale(1.1)';
-      });
-      badge.addEventListener('mouseleave', function() {
-        this.style.transform = 'scale(1)';
-      });
-    });
-  });
-</script>
