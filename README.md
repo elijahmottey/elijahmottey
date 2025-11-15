@@ -10,8 +10,8 @@ As an **AWS Certified Cloud Practitioner**, I'm committed to continuous learning
 
 <div align="center">
 
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahmottey&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmottey&layout=compact&theme=radical&hide_border=true)
+![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahmottey&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahmottey&layout=compact&theme=radical&hide_border=true&langs_count=8)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=elijahmottey&theme=radical&hide_border=true)
 
 </div>
@@ -21,92 +21,115 @@ As an **AWS Certified Cloud Practitioner**, I'm committed to continuous learning
 ## 🛠️ Tech Stack & Proficiency
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Progress](https://progress-bar.vercel.app/?width=85&color=61DAFB&title=85%)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=80&color=000000&title=80%)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Progress](https://progress-bar.vercel.app/?width=90&color=F7DF1E&title=90%)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=75&color=3178C6&title=75%)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=85&color=38B2AC&title=85%)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=95&color=E34F26&title=95%)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=90&color=1572B6&title=90%)
 
 ### **Backend Development**
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=88&color=007396&title=88%)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=85&color=6DB33F&title=85%)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=80&color=3776AB&title=80%)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=70&color=000000&title=70%)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=75&color=339933&title=75%)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=70&color=000000&title=70%)
+
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=82&color=2496ED&title=82%)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=65&color=623CE4&title=65%)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=78&color=2088FF&title=78%)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=75&color=232F3E&title=75%)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=90&color=F05032&title=90%)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Progress](https://progress-bar.vercel.app/?width=80&color=FCC624&title=80%)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6C37?style=flat-square&logo=github-actions&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=75&color=FF6C37&title=75%)
 
 ### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=85&color=4479A1&title=85%)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=80&color=336791&title=80%)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=70&color=47A248&title=70%)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=65&color=DC382D&title=65%)
 
 ### **Tools & Platforms**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=90&color=000000&title=90%)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=95&color=007ACC&title=95%)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=85&color=FF6C37&title=85%)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Progress](https://progress-bar.vercel.app/?width=75&color=F24E1E&title=75%)
 
 ---
 
 ## 📈 Learning Track & Progress
 
-### **🟢 Mastered**
+### **🟢 Mastered (80-100%)**
 - **Java & Spring Boot** - Building enterprise applications
-- **React & Next.js** - Modern frontend development
+- **React & Next.js** - Modern frontend development  
 - **Docker & Containerization** - Application deployment
 - **Git & GitHub** - Version control and collaboration
 - **RESTful APIs** - Backend service development
+- **GitHub Actions** - CI/CD pipeline automation
 
-### **🟡 Currently Mastering**
-- **AWS Services** - EC2, S3, RDS, Lambda
-- **Terraform** - Infrastructure as Code
+### **🟡 Currently Mastering (60-79%)**
+- **AWS Services** - EC2, S3, RDS, Lambda, IAM
+- **Terraform** - Infrastructure as Code (IaC)
 - **Microservices Architecture** - Distributed systems
 - **System Design** - Scalable application architecture
+- **PostgreSQL** - Advanced database operations
 
-### **🔵 Next Goals**
+### **🔵 Next Goals (0-59%)**
 - **Kubernetes** - Container orchestration
 - **GraphQL** - Advanced API development
 - **AWS Solutions Architect** - Professional certification
 - **Machine Learning** - Python & TensorFlow
+- **Advanced Terraform** - Modules, state management
 
 ---
 
-## 🚀 Current Focus & Projects
+## 🚀 DevOps & Infrastructure Projects
 
-### **🏗️ Active Development**
+### **🏗️ CI/CD Pipeline Implementation**
+**Tech**: GitHub Actions, Docker, AWS
+- **Progress**: ![85%](https://progress-bar.vercel.app/?width=85&color=2088FF&title=85%)
+- **Features**: Automated testing, Docker image building, deployment to multiple environments
+- **Status**: ✅ Docker Integration | ✅ Multi-stage Builds | 🚀 Production Deployment
 
-#### 🏨 **Hotel Management System** - *In Progress*
-**Tech Stack**: Spring Boot, React, MySQL, Docker, AWS
-- **Progress**: ✅ Backend API Complete | ✅ Frontend UI Complete | 🚀 Deployment in Progress
-- **Features**: Booking system, billing, inventory management, real-time updates
-- **Status**: Finalizing CI/CD pipeline and production deployment
+### **🔄 Infrastructure as Code**
+**Tech**: Terraform, AWS, GitHub Actions
+- **Progress**: ![65%](https://progress-bar.vercel.app/?width=65&color=623CE4&title=65%)
+- **Features**: Automated infrastructure provisioning, state management, modular design
+- **Status**: ✅ Basic Resources | 🔄 Advanced Modules | 📋 Multi-environment Setup
 
-#### 🛒 **AgriCommerce Platform** - *Planning Phase*
-**Tech Stack**: Spring Boot, React, PostgreSQL, AWS, Terraform
-- **Progress**: 📋 Requirements Gathering | 🎨 UI/UX Design
-- **Goal**: Digital marketplace for Ghanaian farmers
-- **Target**: Q1 2025 Launch
+### **🐳 Containerization Strategy**
+**Tech**: Docker, Docker Compose, Multi-stage builds
+- **Progress**: ![82%](https://progress-bar.vercel.app/?width=82&color=2496ED&title=82%)
+- **Features**: Optimized images, health checks, security scanning
+- **Status**: ✅ Multi-stage Builds | ✅ Health Checks | 🔄 Security Best Practices
 
-#### 📦 **Suggestion Box Application** - *Completed*
-**Tech Stack**: Next.js, Spring Boot, Docker
-- **Progress**: ✅ Fully Implemented | ✅ Deployed
-- **Features**: Anonymous feedback system, admin dashboard
+---
 
-### **📚 Learning Projects**
-- **AWS Cloud Infrastructure** - Multi-tier architecture
-- **Terraform Modules** - Reusable infrastructure code
-- **Microservices** - Event-driven architecture
+## 🏗️ Active Development Projects
+
+### **🏨 Hotel Management System** - *In Progress*
+**Tech Stack**: Spring Boot, React, MySQL, **Docker, GitHub Actions, Terraform**
+- **Progress**: ![85%](https://progress-bar.vercel.app/?width=85&color=6DB33F&title=85%)
+- **DevOps Features**: 
+  - ✅ **Docker** containerization
+  - ✅ **GitHub Actions** CI/CD pipeline  
+  - 🔄 **Terraform** infrastructure
+  - 📋 **Multi-environment** deployment
+- **Status**: Finalizing production deployment with full DevOps pipeline
+
+### **🛒 AgriCommerce Platform** - *Planning Phase*
+**Tech Stack**: Spring Boot, React, PostgreSQL, **AWS, Terraform, GitHub Actions**
+- **Progress**: ![15%](https://progress-bar.vercel.app/?width=15&color=3776AB&title=15%)
+- **Infrastructure Plan**: Cloud-native architecture with Infrastructure as Code
+- **Target**: Q1 2025 Launch with full DevOps automation
+
+### **📦 Suggestion Box Application** - *Completed*
+**Tech Stack**: Next.js, Spring Boot, **Docker, GitHub Actions**
+- **Progress**: ![100%](https://progress-bar.vercel.app/?width=100&color=000000&title=100%)
+- **DevOps**: Fully automated CI/CD with Docker deployment
 
 ---
 
@@ -116,29 +139,31 @@ As an **AWS Certified Cloud Practitioner**, I'm committed to continuous learning
 **AWS Certified Cloud Practitioner** *• 2025*
 
 ### **🎯 Upcoming Certifications**
-- AWS Solutions Architect Associate (Target: Q2 2025)
-- Terraform Associate (Target: Q3 2025)
-- Kubernetes Application Developer (Target: Q4 2025)
+- **AWS Solutions Architect Associate** (Target: Q2 2025) ![40%](https://progress-bar.vercel.app/?width=40&color=232F3E&title=40%)
+- **Terraform Associate** (Target: Q3 2025) ![25%](https://progress-bar.vercel.app/?width=25&color=623CE4&title=25%)
+- **Kubernetes Application Developer** (Target: Q4 2025) ![15%](https://progress-bar.vercel.app/?width=15&color=326CE5&title=15%)
 
 ---
 
-## 📊 Project Progress Overview
+## 📊 DevOps Progress Overview
 
-| Project | Status | Tech Stack | Completion |
-|---------|--------|------------|------------|
-| Hotel Management System | 🚀 Deployment | Spring Boot, React, Docker | 85% |
-| Suggestion Box App | ✅ Live | Next.js, Spring Boot | 100% |
-| AgriCommerce Platform | 📋 Planning | React, Spring Boot, AWS | 15% |
-| Portfolio Website | ✅ Live | Next.js, Tailwind | 100% |
+| Technology | Proficiency | Current Focus | Projects Using |
+|------------|-------------|---------------|----------------|
+| **Docker** | 82% | Multi-stage builds, Security | Hotel App, Suggestion Box |
+| **GitHub Actions** | 78% | CI/CD pipelines, Automation | All active projects |
+| **Terraform** | 65% | Infrastructure as Code | Hotel App, AgriCommerce |
+| **AWS** | 75% | Cloud services, Architecture | All deployments |
+| **CI/CD** | 75% | Pipeline optimization | Production deployments |
 
 ---
 
-## 🌟 Recent Achievements
+## 🌟 Recent DevOps Achievements
 
-- ✅ **AWS Cloud Practitioner Certification** - January 2025
-- ✅ **Hotel Management System Backend** - Completed with full CRUD operations
-- ✅ **Docker & CI/CD Implementation** - Automated deployment pipeline
-- 🔄 **Multi-service Architecture** - Implementing microservices patterns
+- ✅ **Docker Implementation** - Multi-stage builds with 80% size reduction
+- ✅ **GitHub Actions CI/CD** - Automated testing and deployment pipelines
+- ✅ **Infrastructure as Code** - Basic Terraform modules for AWS resources
+- 🔄 **Container Orchestration** - Learning Kubernetes for scaling
+- 📈 **Monitoring Integration** - Implementing health checks and logging
 
 ---
 
@@ -155,14 +180,14 @@ As an **AWS Certified Cloud Practitioner**, I'm committed to continuous learning
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahmottey&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elijahmottey&theme=react-dark&hide_border=true&area=true&custom_title=Elijah%27s%20Contribution%20Graph)
 
 </div>
 
 ---
 
-> 💡 *"Building solutions that matter through clean code, scalable architecture, and continuous learning. Every commit brings me closer to mastering the art of software engineering."*
+> 💡 *"Building solutions that matter through clean code, scalable architecture, and continuous learning. Every commit brings me closer to mastering the art of software engineering and DevOps excellence."*
 
 ---
 
-*🚀 Currently accepting new collaborations and opportunities! Let's build something amazing together.*
+*🚀 Currently building robust DevOps pipelines and cloud infrastructure! Let's automate and scale together.*
